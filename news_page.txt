@@ -1,0 +1,1 @@
+v1,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/warkaa_news_page_v1.png
