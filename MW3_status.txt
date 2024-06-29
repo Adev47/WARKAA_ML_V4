@@ -1,5 +1,5 @@
 CHAIR V1 + WOOFER,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/u237cgatAh2.exe
 CHAIR V2 + WOOFER,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MWIII_UNBRANDED_CHAIR_V1.3_2.exe
-UNLOCK ALL + WOOFER,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/MWIII_IRIS_UA_V3.6.exe
+UNLOCK ALL + WOOFER,online,1.00.02,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/MWIII_UNBRANDED_UA_V3.6.exe
 AIO + WOOFER,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MWIII_AIO_UNBRANDED_V3.6.exe
 PRIVACY PROTECTOR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Privacy_Protector.exe
