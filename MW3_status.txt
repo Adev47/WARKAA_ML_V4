@@ -1,5 +1,5 @@
 CHAIR V1 + WOOFER,online,1.00.02,https://raw.githubusercontent.com/Adev47/WARKAA_ML_V4/main/uploads/beta.exe
-CHAIR V2 + WOOFER,online,1.00.04,https://raw.githubusercontent.com/Adev47/WARKAA_ML_V4/main/uploads/ldr_xWC8e6C.exe
+CHAIR V2 + WOOFER,online,1.00.05,https://raw.githubusercontent.com/Adev47/WARKAA_ML_V4/main/uploads/ldr_HVwtXfEQ.exe
 UNLOCK ALL + WOOFER,online,1.00.07,https://raw.githubusercontent.com/Adev47/WARKAA_ML_V4/main/uploads/MWIII_5.exe
 AIO + WOOFER,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MWIII_AIO_UNBRANDED_V3.6.exe
 PRIVACY PROTECTOR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Privacy_Protector.exe
