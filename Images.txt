@@ -1,5 +1,5 @@
 Logo,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/WARKAA_default_logo.gif
-News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/warkaa_news_page_v1.png
+News_Page,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/News_Page_base_fr.png
 Lateral_Menu,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/warkaa_default_lateral.png
 Background,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/warkaa_default_background.png
 BO6,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_BO6_category_wallp.png
