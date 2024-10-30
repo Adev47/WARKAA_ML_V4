@@ -1,1 +1,2 @@
 BO6 SILENT CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/1180912478629134366_cloud/main/blops.exe
+BO6 INFERNO CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/1180912478629134366_cloud/main/BO6_MAIN.exe
