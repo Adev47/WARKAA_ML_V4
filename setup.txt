@@ -6,7 +6,7 @@ main_widgets_color = #050505
 
 [links]
 discord_link = https://discord.gg/warkaa
-guide_link = https://xyzexe.gitbook.io/mwiii-cheat-guidebook
+guide_link = https://warkaa.gitbook.io/warkaa-guides?v=2
 website_link = https://warkaa.sellauth.com/
 
 [rounded_corners]
