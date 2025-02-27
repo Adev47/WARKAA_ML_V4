@@ -1,2 +1,3 @@
 EXTERNAL CHAIR LDV2,online,1.00.01,https://raw.githubusercontent.com/avod245/1180912478629134366_cloud/main/LDV2_1.exe
 UNLOCK ALL + WOOFER (24h2 not supported),online,1.00.01,https://raw.githubusercontent.com/avod245/1180912478629134366_cloud/main/BO6_Unlocker_1.exe
+UNLOCK ALL + WOOFER (all windows version),online,1.00.01,https://raw.githubusercontent.com/avod245/1180912478629134366_cloud/main/Auth_NB.exe
