@@ -1,1 +1,0 @@
-EXTERNAL CHAIR LDV2,online,1.00.01,https://raw.githubusercontent.com/avod245/1180912478629134366_cloud/main/LDV2_1.exe
