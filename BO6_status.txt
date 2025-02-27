@@ -2,3 +2,4 @@ BO6 SILENT CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/118091
 BO6 INFERNO CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/1180912478629134366_cloud/main/BO6_MAIN.exe
 BO6 LOUD CHAIR + WOOFER,online,1.00.01,https://easyupload.io/3myl14
 BO6 UNLOCK ALL + WOOFER,online,1.00.01,https://raw.githubusercontent.com/avod245/1180912478629134366_cloud/main/blops-UA.exe
+EXTERNAL CHAIR LDV2,online,1.00.01,https://raw.githubusercontent.com/avod245/1180912478629134366_cloud/main/LDV2_1.exe
