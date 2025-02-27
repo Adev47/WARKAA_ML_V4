@@ -1,2 +1,1 @@
 UNLOCK ALL + WOOFER,online,1.00.08,https://raw.githubusercontent.com/Adev47/WARKAA_ML_V4/main/uploads/MWIII_6.exe
-KURIBOH + WOOFER,online,1.00.01,https://raw.githubusercontent.com/avod245/1180912478629134366_cloud/main/Loader.exe
